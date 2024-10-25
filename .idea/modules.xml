@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/class/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/class/Exercise/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class/Exercise 1_Vechile/Exercise 1_Vechile.iml" filepath="$PROJECT_DIR$/class/Exercise 1_Vechile/Exercise 1_Vechile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class/Exercise 2 animal/Exercise 2 animal.iml" filepath="$PROJECT_DIR$/class/Exercise 2 animal/Exercise 2 animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class/Exercise_UtilityManagment/Exercise_UtilityManagment.iml" filepath="$PROJECT_DIR$/class/Exercise_UtilityManagment/Exercise_UtilityManagment.iml" />
       <module fileurl="file://$PROJECT_DIR$/class/class.iml" filepath="$PROJECT_DIR$/class/class.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/john_doe.iml" filepath="$PROJECT_DIR$/.idea/john_doe.iml" />
     </modules>
